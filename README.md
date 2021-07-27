@@ -1,2 +1,2 @@
 # SlowMistAuditReport-SolYard.pdf
-!(image)[SlowMistAuditReport-SolYard.pdf]
+[SlowMistAuditReport-SolYard.pdf] (SlowMistAuditReport-SolYard.pdf)
